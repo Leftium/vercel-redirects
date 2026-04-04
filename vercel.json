@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [{ "type": "host", "value": "blues-calendar.leftium.com" }],
+      "destination": "https://calendar.google.com/calendar/embed?src=c_052968b76d963c6eb713bb1cf546b16c83eb70ad1187516a690213b5207d9dc4%40group.calendar.google.com&mode=AGENDA",
+      "permanent": false
+    }
+  ]
+}
