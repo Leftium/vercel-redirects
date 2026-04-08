@@ -3,7 +3,7 @@
     {
       "source": "/(.*)",
       "has": [{ "type": "host", "value": "blues-calendar.leftium.com" }],
-      "destination": "https://calendar.google.com/calendar/embed?src=c_052968b76d963c6eb713bb1cf546b16c83eb70ad1187516a690213b5207d9dc4%40group.calendar.google.com&mode=AGENDA",
+      "destination": "https://calendar.google.com/calendar/u/0/embed?ctz=Asia/Seoul&showPrint=0&title=Blues+Events&showTz=0&src=Y18wNTI5NjhiNzZkOTYzYzZlYjcxM2JiMWNmNTQ2YjE2YzgzZWI3MGFkMTE4NzUxNmE2OTAyMTNiNTIwN2Q5ZGM0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y19jOTMwYTM4ZGY4MWY5ZDYwYThmYjFlNjhkN2Y0YTY2NjZjMjU4NDU4OTdlZWUyMDMxNDRhMGRhMjY0Yzg4YmMzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%234285f4&color=%239e69af&mode=AGENDA",
       "permanent": false
     }
   ]
